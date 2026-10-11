@@ -1,0 +1,378 @@
+[
+  {
+    "item_id": "Cat_01",
+    "question": "Food establishment has an updated FSSAI license and is displayed at a prominent location.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_02",
+    "question": "The design of food premises provides adequate working space; permit maintenance & cleaning to prevent entry of dirt, dust & pests.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_03",
+    "question": "The internal structure & fittings are made of non-toxic and impermeable material.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_04",
+    "question": "Walls, ceilings & doors are free from flaking paint or plaster, condensation & shedding particles.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_05",
+    "question": "Floors are non-absorbent, non-slippery & sloped appropriately.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_06",
+    "question": "Windows are kept closed & fitted with insect proof screen when opening to external environment.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_07",
+    "question": "Doors are smooth and non-absorbent. Suitable precautions taken to prevent entry of pests.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_08",
+    "question": "Potable water (meeting standards of IS:10500 & tested semi-annually with records maintained thereof) is used as product ingredient or in contact with food or food contact surface.",
+    "section": "Design & Facilities",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_09",
+    "question": "Equipment and containers are made of non-toxic, impervious, non-corrosive material which is easy to clean & disinfect.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_10",
+    "question": "Adequate facilities for heating, cooling, refrigeration and freezing food & facilitate monitoring of temperature.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_11",
+    "question": "Premise has sufficient lighting. Lighting fixtures are protected to prevent contamination on breakage.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_12",
+    "question": "Adequate ventilation is provided within the premises.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_13",
+    "question": "An adequate storage facility for food, packaging materials, chemicals, personnel items etc is available.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_14",
+    "question": "Personnel hygiene facilities are available including adequate number of hand washing facilities, toilets, change rooms for employees.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_15",
+    "question": "Food material is tested either through internal laboratory or through an accredited lab. Check for records.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_16",
+    "question": "Incoming material is procured as per internally laid down specification from approved vendors. Check for records (CoA, Form E, specs, supplier, batch, expiry).",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_17",
+    "question": "Raw materials are inspected at the time of receiving for food safety hazards (farm produce checked for spoilage and accepted in good condition).",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_18",
+    "question": "Incoming material, semi or final products stored per temperature in hygienic environment. FIFO & FEFO practiced (animal origin <= 4°C).",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_19",
+    "question": "All raw materials is cleaned thoroughly before food preparation.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_20",
+    "question": "Proper segregation of raw, cooked; vegetarian and non-vegetarian food is done.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_21",
+    "question": "All the equipment is adequately sanitized before and after food preparation.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_22",
+    "question": "Frozen food is thawed hygienically. No thawed food stored for later use (meat/fish/poultry in fridge <=5°C or microwave; seafood cold running water <=15°C within 90m).",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_23",
+    "question": "Vegetarian cooked min 60°C/10m or 65°C/2m core temp. Non-veg min 65°C/10m or 70°C/2m or 75°C/15s core temp.",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_24",
+    "question": "Cooked food intended for refrigeration cooled appropriately (high risk cooled from 60°C to 21°C within 2h, further to 5°C within 2h).",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_25",
+    "question": "Food portioning done hygienically. High risk portioned in refrigerated area or refrigerated within 30 min. Large amount below 15°C.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_26",
+    "question": "Hot food held at >=65°C, non-veg >=70°C. Cold foods <=5°C, frozen <=-18°C.",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_27",
+    "question": "Reheating done appropriately (core temp 75°C for 2 min). No indirect reheating like bain-marie or hot lamp.",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_28",
+    "question": "Oil suitable for cooking used. Periodic verification of fat/oil color, flavour and floated elements done.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_29",
+    "question": "Vehicles for food transport kept clean, good repair, maintain required temp (hot >=65°C, cold <=5°C, frozen <=-18°C or transported within 2h).",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_30",
+    "question": "Food and non-food transported at same time in same vehicle separated adequately.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_31",
+    "question": "Cutlery, crockery and dinner accompaniments clean and sanitized free from unhygienic matters.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_32",
+    "question": "Packaging and wrapping material in contact with food is clean and food grade.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_33",
+    "question": "Cleaning of equipment and premises per schedule & programme. No water stagnation in food zones.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_34",
+    "question": "Preventive maintenance carried out per manufacturer instructions. Check records.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_35",
+    "question": "Measuring & monitoring devices calibrated periodically.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_36",
+    "question": "Pest control program available & carried out by trained personnel. Check records.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_37",
+    "question": "No signs of pest activity or infestation in premises (eggs, larvae, faeces etc).",
+    "section": "Maintenance & Sanitation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_38",
+    "question": "Drains meet expected flow loads, equipped with grease and cockroach traps.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_39",
+    "question": "Food waste and refuse removed periodically to avoid accumulation.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_40",
+    "question": "Annual medical examination & inoculation against enteric diseases per schedule done. Check records.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_41",
+    "question": "No person with illness or open wounds/burns involved in handling food.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_42",
+    "question": "Food handlers maintain personal cleanliness (clean clothes, trimmed nails & waterproof bandage) and behaviour (hand washing, no jewellery/smoking/spitting).",
+    "section": "Personal Hygiene",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_43",
+    "question": "Food handlers equipped with suitable aprons, gloves, headgear etc wherever necessary.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_44",
+    "question": "Internal / External audit of system done periodically. Check records.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_45",
+    "question": "Food business has an effective consumer complaints redressal mechanism.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_46",
+    "question": "Food handlers trained and skilled to handle food safely. Check training records.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Catering"
+  },
+  {
+    "item_id": "Cat_47",
+    "question": "Appropriate documentation & records available and retained for 1 year or shelf-life, whichever is more.",
+    "section": "Training & Records Keeping",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Catering"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "item_id": "Trans_01",
+    "question": "Transporter has an updated FSSAI license.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_02",
+    "question": "The design & construction of transport vehicle permit adequate maintenance, cleaning, storage of food and do not provide entry or harbourage to pests.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_03",
+    "question": "The containers/crates used for transporting food are made of food grade material and designed to prevent contamination.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_04",
+    "question": "The vehicle is covered and inside structure is intact, well painted with no signs of rusting, flaking paint & corrosion.",
+    "section": "Design & Facilities",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_05",
+    "question": "Transport vehicle is equipped to achieve & maintain the required temperature, wherever required and designed in a way that allows monitoring the temperature from outside.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_06",
+    "question": "The vehicle has proper locking/sealing facility to ensure that products are not exposed to external weather conditions and pilferage.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_07",
+    "question": "Vehicle is inspected for debris, dust, previous loads, pest activity & other non-food or hazardous item before loading. Check for records.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_08",
+    "question": "Transport of chilled products is done at 5°C or below and of frozen products at -18°C or below. Check for records or temperature logs.",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_09",
+    "question": "Hazardous material like chemicals, fuels, flammable materials are not transported with food material.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_10",
+    "question": "If a vehicle is changed from transporting non-food products to transporting food products, proper cleaning is conducted to avoid contamination of food. Check for records.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_11",
+    "question": "Mix loads of food material are adequately compartmentalized to prevent cross contamination.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_12",
+    "question": "Bulk foodstuffs in liquid, granulate or powder form are transported in containers/tankers reserved for transport of foodstuffs & marked \"for foodstuffs only\".",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": true,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_13",
+    "question": "In case of breakdown of vehicle or cooling unit, an alternative vehicle conforming to standards is provided promptly to transport foods to ensure safety and hygiene.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_14",
+    "question": "The interior of vehicle is kept clean and there are no seepage, cobwebs, dirt, dust, etc. that can compromise food safety.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_15",
+    "question": "Temperature monitoring devices are calibrated at a pre-determined interval.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_16",
+    "question": "Pest control program is available & pest control activities are carried out by trained and experienced personnel. Check for records.",
+    "section": "Maintenance & Sanitation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_17",
+    "question": "Foods which become unfit during transportation whether due to temperature abuse or otherwise are identified and disposed off in a manner precluding human consumption.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_18",
+    "question": "Annual medical examination & inoculation of food handlers against the enteric group of diseases as per recommended schedule of vaccine is done. Check for records.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_19",
+    "question": "No person suffering from a disease or illness or with open wounds or burns is involved in handling of food or materials which come in contact with food.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_20",
+    "question": "Food handlers maintain personal cleanliness and personal behaviour.",
+    "section": "Personal Hygiene",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_21",
+    "question": "Food handlers equipped with suitable aprons, gloves, headgear, shoe cover etc; wherever necessary.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_22",
+    "question": "Food handlers have the necessary knowledge and skills & trained to handle food safely. Check for training records.",
+    "section": "Training Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Transport"
+  },
+  {
+    "item_id": "Trans_23",
+    "question": "Appropriate documentation & records are available and retained for specific period.",
+    "section": "Training Records Keeping",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Transport"
+  }
+]

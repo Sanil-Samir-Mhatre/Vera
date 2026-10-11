@@ -1,0 +1,258 @@
+[
+  {
+    "item_id": "SW_01",
+    "question": "Food establishment has an updated FSSAI license and is displayed at a prominent location.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_02",
+    "question": "The design and layout of warehouse permit adequate maintenance and cleaning and do not provide harbourage to pests.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_03",
+    "question": "There is adequate facility for potable & non-potable water supply.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_04",
+    "question": "There is adequate facility for drainage & waste disposal.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_05",
+    "question": "Premise has sufficient lighting. Lighting fixtures are covered to protect food from contamination (especially where unpacked food is stored).",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_06",
+    "question": "Adequate ventilation is provided within the premise.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_07",
+    "question": "An adequate and separate storage facility is in place for food products; chemicals & other hazardous substances; personal items etc.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_08",
+    "question": "Facility capable of achieving & maintaining temperature is available (such as freezer, chillers etc.) for storing products requiring temperature control.",
+    "section": "Design & Facilities",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_09",
+    "question": "Ante room is available with frozen room maintaining temperature below 4°C for picking of frozen product.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_10",
+    "question": "Personnel hygiene facilities are available. (Adequate number of hand washing facilities, toilets, change rooms, rest & refreshment room etc).",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_11",
+    "question": "Food material is stored on pallets/racks off the floor and away from walls.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_12",
+    "question": "Products handled with care at receiving picking and dispatch — material not lying on floor or in an unorganized manner or allowed to accumulate.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_13",
+    "question": "Chilled products are received at 5°C or below. Frozen products are received at -18°C or below.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_14",
+    "question": "Frozen products are stored in frozen rooms maintained at -18°C or below. Chilled products are stored in cold rooms maintained at 5°C or below. Records of temperature monitoring are maintained.",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_15",
+    "question": "Cold room and frozen room are maintained neat and clean, free from mold growth and any unwanted materials.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_16",
+    "question": "Stock rotation is practiced through FIFO/FEFO and no expired product is available on shelf for sale.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_17",
+    "question": "The premises is kept clean and there are no seepage, cobwebs, dirt, dust, etc. that can compromise food safety. Check for records.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_18",
+    "question": "Cleaning of storage equipments (silos, pallets etc.), food premises is done as per cleaning schedule & cleaning programme.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_19",
+    "question": "Food premises and equipment are maintained in an appropriate state of repair and condition. Check for records.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_20",
+    "question": "Pest control program is available Only approved pest control chemicals or fumigants (in case of food grains) are used. Check for records.",
+    "section": "Maintenance & Sanitation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_21",
+    "question": "Pest control activities are carried out by trained and experienced personnel. Check for records.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_22",
+    "question": "Rodent traps are in sufficient numbers and are mapped. Insecticutors used are functional and cleaned regularly.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_23",
+    "question": "No signs of pest activity or infestation in premises (eggs, larvae, faeces etc.)",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_24",
+    "question": "Food waste and other refuse are removed periodically from food storage areas to avoid accumulation.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_25",
+    "question": "Annual medical examination & inoculation of food handlers against the enteric group of diseases as per recommended schedule of vaccine is done. Check for records.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_26",
+    "question": "No person suffering from a disease or illness or with open wounds or burns is involved in handling of food or materials which come in contact with food.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_27",
+    "question": "Food handlers maintain personal cleanliness (clean clothes, trimmed nails & water proof bandage etc) and personal behaviour (hand washing, no loose jewellery, no smoking, no spitting etc).",
+    "section": "Personal Hygiene",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_28",
+    "question": "Food handlers equipped with suitable aprons, gloves, headgear, shoe cover etc; wherever necessary.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_29",
+    "question": "Internal / External audit of the system is done periodically. Check for records.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_30",
+    "question": "Food business has an effective customer complaints redressal mechanism.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_31",
+    "question": "Food handlers have the necessary knowledge and skills & trained to handle food safely. Check for training records.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Storage & Warehouse"
+  },
+  {
+    "item_id": "SW_32",
+    "question": "Appropriate documentation & records are available and retained for specific period.",
+    "section": "Training & Records Keeping",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Storage & Warehouse"
+  }
+]

@@ -1,0 +1,13 @@
+streamlit
+sentence-transformers
+scikit-learn
+spacy
+pandas
+openpyxl
+PyMuPDF
+python-docx
+langchain
+langchain-ollama
+pydantic
+plotly
+fpdf2

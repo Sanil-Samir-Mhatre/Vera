@@ -1,0 +1,386 @@
+[
+  {
+    "item_id": "MP_01",
+    "question": "Food establishment has an updated FSSAI license and is displayed at a prominent location.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_02",
+    "question": "Design of food premises provide adequate working space; permit maintenance, cleaning & prevent entry of dirt, dust & pests.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_03",
+    "question": "The internal structure & fittings are made of non-toxic and impermeable material.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_04",
+    "question": "Walls, ceilings & doors are free from flaking paint or plaster, condensation & shedding particles.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_05",
+    "question": "Floors are non-slippery & sloped appropriately.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_06",
+    "question": "Windows are kept closed & fitted with insect proof screen when opening to an external environment.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_07",
+    "question": "Doors are close fitted at all ends to avoid entry of pests.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_08",
+    "question": "Equipment and containers are made of non-toxic, impervious, non-corrosive material which is easy to clean & disinfect (preferably SS 316 for equipment & SS 304 for tanks/tankers).",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_09",
+    "question": "Premise has sufficient lighting.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_10",
+    "question": "Adequate ventilation is provided within the premises.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_11",
+    "question": "An adequate storage facility for food, packaging materials, chemicals, personnel items etc is available.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_12",
+    "question": "Personnel hygiene facilities are available. (Adequate number of hand washing facilities, toilets, change rooms, rest & refreshment room etc).",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_13",
+    "question": "Potable water (meeting standards of IS:10500) is used as product ingredient or in contact with food or food contact surface. Tested for quality semi annually. Check for records.",
+    "section": "Design & Facilities",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_14",
+    "question": "Raw Milk Reception Dock (RMRD) facility is sufficiently raised with sides & top to prevent contamination while unloading of raw material.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_15",
+    "question": "Separate processing facilities available for heat treated milk & milk products to avoid cross contamination.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_16",
+    "question": "Food material is tested either through internal laboratory or through an accredited lab. Check for records.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_17",
+    "question": "Incoming material is procured as per internally laid down specification & from approved vendors. Check for records (specifications, supplier details, batch no., quantity procured).",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_18",
+    "question": "Milk & other raw material are inspected at the time of receiving for food safety hazards.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_19",
+    "question": "Raw milk received through bulk chilling centres, the temperature of milk is maintained at 5°C or lower.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_20",
+    "question": "Raw milk when brought to dairy plant by farmers, should reach the plant within 4 hours from milking & is cooled to 5°C or lower as quickly as possible.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_21",
+    "question": "Incoming material, semi or final products are stored according to their temperature and humidity requirement, in a hygienic environment. FIFO & FEFO is practised.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_22",
+    "question": "Milk is brought to the collection centre within 4 hours and immediately chilled to a temperature of 4°C or lower.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_23",
+    "question": "Pasteurization temperature & holding time (HTST: 72°C/15 sec; Batch: 63°C/30 min; UHT: 135°C/1-2 sec) are properly maintained.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_24",
+    "question": "Post pasteurisation process, milk is cooled immediately to a temperature of 4°C or lower.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_25",
+    "question": "Requisite time and temperature is being achieved, maintained, monitored & recorded while manufacturing/processing.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": true,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_26",
+    "question": "Packing or filling of heat treated milk and milk products are carried out hygienically.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_27",
+    "question": "Packaging materials is food grade & in sound condition.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_28",
+    "question": "Cleaning chemicals & other hazardous substance are clearly identified & stored separately from food.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_29",
+    "question": "Transporting vehicle for food use are kept clean and maintained in good repair.",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_30",
+    "question": "Transporting vehicles for carrying milk are capable of meeting requisite temperature (where applicable).",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_31",
+    "question": "Recalled products are held under supervision & are destroyed or reprocessed/reworked in a manner to ensure their safety. Check for records.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_32",
+    "question": "Cleaning of equipment (preferably CIP), food premises is done as per cleaning schedule & cleaning programme. Proper arrangements available for cleaning, sanitizing of road milk tankers, cans etc.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_33",
+    "question": "Preventive maintenance of equipment and machinery is carried out regularly as per instructions of manufacturer.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_34",
+    "question": "Measuring & monitoring devices are calibrated periodically.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_35",
+    "question": "Pest control program is available & pest control activities are carried out by trained and experienced personnel. Check for records.",
+    "section": "Maintenance & Sanitation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_36",
+    "question": "No signs of pest activity or infestation in premises (eggs, larvae, faeces etc.)",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_37",
+    "question": "Drains are designed to meet expected flow loads and equipped with traps to capture contaminants.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_38",
+    "question": "Food waste and other refuse are removed periodically from food handling areas to avoid accumulation.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_39",
+    "question": "Effluent Treatment Plant (ETP) is in place.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_40",
+    "question": "Disposal of sewage and effluents is done in conformity with standards laid down under Environment Protection Act, 1986.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_41",
+    "question": "Annual medical examination & inoculation of food handlers against the enteric group of diseases as per recommended schedule of vaccine is done. Check for records.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_42",
+    "question": "No person suffering from a disease or illness or with open wounds or burns is involved in handling of food or materials which come in contact with food.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_43",
+    "question": "Food handlers maintain personal cleanliness (clean clothes, trimmed nails & water proof bandage etc) and personal behaviour (hand washing, no loose jewellery, no smoking, no spitting etc).",
+    "section": "Personal Hygiene",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_46",
+    "question": "Food handlers are equipped with suitable aprons, gloves, headgear, shoe cover etc; wherever necessary.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_47",
+    "question": "Internal / External audit of the system is done periodically. Check for records.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_48",
+    "question": "Food Business has an effective consumer complaints redressal mechanism.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_49",
+    "question": "Food handlers have the necessary knowledge and skills & trained to handle food safely. Check for training records.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Milk Processing"
+  },
+  {
+    "item_id": "MP_50",
+    "question": "Appropriate documentation & records are available and retained for a period of one year or shelf-life of product, whichever is more.",
+    "section": "Training & Records Keeping",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Milk Processing"
+  }
+]

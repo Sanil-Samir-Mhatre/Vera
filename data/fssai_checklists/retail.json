@@ -1,0 +1,234 @@
+[
+  {
+    "item_id": "Ret_01",
+    "question": "Retail store has an updated FSSAI license and is displayed at a prominent location.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_02",
+    "question": "The design of retail store provides adequate working space; permit cleaning to prevent entry of dirt, dust & pests.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_03",
+    "question": "Premise has sufficient lighting. Lighting fixtures are covered to protect food from contamination.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_04",
+    "question": "Adequate ventilation is provided within the premises.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_05",
+    "question": "An adequate storage facility is in place for food products; chemicals & other hazardous substances; personal items etc.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_06",
+    "question": "Facility is capable of achieving & maintaining temperature for storing temperature sensitive products (freezers, chillers, hot holding).",
+    "section": "Design & Facilities",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_07",
+    "question": "There is adequate facility for waste disposal.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_08",
+    "question": "Incoming material procured as per internally laid down specification & from approved vendors. Check records (specs, supplier, batch no, qty).",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_09",
+    "question": "Raw materials are inspected at the time of receiving for food safety hazards.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_10",
+    "question": "Incoming food material stored per temperature/humidity in hygienic environment (<=5°C cold, >=60°C hot, <= -18°C frozen).",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_11",
+    "question": "Stock rotation is practiced through FIFO/FEFO and no expired product is available on shelf for sale.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_12",
+    "question": "Vegetarian and non vegetarian products are stored separately to avoid cross contamination.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_13",
+    "question": "Food items & non food items are stored separately to avoid cross contamination.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_14",
+    "question": "Products are free from spillage/leakage. Packed food products are free from pin holes or damages.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_15",
+    "question": "The store interior is kept clean and there are no seepage, cobwebs, dirt, dust, etc. that can compromise food safety.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_16",
+    "question": "Cleaning of equipment, food premises is done as per cleaning schedule & cleaning programme.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_17",
+    "question": "All equipment & premises is maintained in good repair & condition.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_18",
+    "question": "Pest control program is available & pest control activities are carried out by trained and experienced personnel. Check for records.",
+    "section": "Maintenance & Sanitation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_19",
+    "question": "No signs of pest activity or infestation in premises (eggs, larvae, faeces etc.)",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_20",
+    "question": "Food waste and other refuse are removed periodically to avoid accumulation.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_21",
+    "question": "Disposal of sewage and effluents is done in conformity with standards laid down under Environment Protection Act, 1986.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_22",
+    "question": "Annual medical examination & inoculation of food handlers against enteric group of diseases per recommended schedule is done. Check for records.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_23",
+    "question": "No person suffering from a disease or illness or with open wounds or burns is involved in handling of food or materials which come in contact with food.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_24",
+    "question": "Food handlers maintain personal cleanliness and personal behaviour (hand washing, no smoking, no spitting etc).",
+    "section": "Personal Hygiene",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_25",
+    "question": "Food handlers equipped with suitable aprons, gloves, headgear, shoe cover etc; wherever necessary.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_26",
+    "question": "Internal / External audit of the system is done periodically. Check for records.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_27",
+    "question": "Food business has an effective consumer complaints redressal mechanism.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_28",
+    "question": "Food handlers have the necessary knowledge and skills & trained to handle food safely. Check for training records.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Retail"
+  },
+  {
+    "item_id": "Ret_29",
+    "question": "Appropriate documentation & records are available and retained for specific period.",
+    "section": "Training & Records Keeping",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Retail"
+  }
+]

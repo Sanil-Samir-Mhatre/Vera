@@ -1,0 +1,322 @@
+[
+  {
+    "item_id": "SH_01",
+    "question": "Food establishment has an updated FSSAI License & NOC from local authority.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_02",
+    "question": "The premises have separate provision for the slaughter of different species of animals & for different methods of slaughter.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_03",
+    "question": "There is an adequate resting area (lairage) with facility for watering and examination of animals or birds.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_04",
+    "question": "The layout of slaughter house ensures forward movement from live animal introduction to emergence of meat and offals without overlap/intersection.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_05",
+    "question": "Internal structure & fittings are made of non-toxic, impermeable materials which prevent entry of dirt, dust & pest.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_06",
+    "question": "Floors are impervious, epoxy coated and non-slippery.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_07",
+    "question": "Walls are paved with impervious glazed tiles upto 1m for small ruminants/poultry and upto 5m for large animals & epoxy coated.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_08",
+    "question": "Windows & other openings are free from accumulated dirt, those which open are fitted with insect-proof screen.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_09",
+    "question": "Doors are smooth, non-absorbent surface, close fitted & self closing (where appropriate).",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_10",
+    "question": "Premises have sufficient lighting i.e. 540 lux (inspection points), 220 lux (work room) & 110 lux (other areas).",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_11",
+    "question": "Adequate ventilation is provided within the premises.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_12",
+    "question": "Personnel hygiene facilities available including toilets, hand washing with warm/hot and cold water, hygienic drying adjacent to toilets and processing entry.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_13",
+    "question": "Clean potable cold water (meeting standards of IS 10500) with pressure hose pipes and supply of hot water is available in slaughter hall.",
+    "section": "Design & Facilities",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_14",
+    "question": "An equipped laboratory is available with qualified chemist/analyst & veterinary microbiologist.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_15",
+    "question": "The equipment & containers (except chopping blocks, cutting boards & brooms) are durable, made of corrosion resistant material facilitating cleaning.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_16",
+    "question": "Animals suspected of infectious diseases are segregated and kept in separation.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_17",
+    "question": "Humane methods are used for slaughtering. Animals rested before slaughter to reduce stress. Not slaughtered in sight of other animals. Stunning done before slaughtering.",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_18",
+    "question": "Equipment used for stunning is maintained in good working condition.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_19",
+    "question": "The dressing of carcasses is not done on floor. Suitable hoists are provided to hang carcasses before evisceration.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_20",
+    "question": "Knives and sharpeners (mushtala) are of stainless steel and sterilized/sanitized before use.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_21",
+    "question": "All animals are subjected to ante-mortem examination and post-mortem inspection by authorised veterinarian as per specified proforma.",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_22",
+    "question": "When dressed meat has to stored without further immediate processing, storage is maintained at 0°C to 2°C.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_23",
+    "question": "Carcasses/organs fit for consumption marked as Inspected & passed; unfit marked as Inspected & condemned.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_24",
+    "question": "Cleaning of equipment, food premises is done per schedule & programme. (Floorings washed daily; lime/colour/paint washing at least once in 12 months).",
+    "section": "Sanitation, Maintenance & Waste Disposal",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_25",
+    "question": "Preventive maintenance of stunning equipment is carried out regularly per manufacturer instructions.",
+    "section": "Sanitation, Maintenance & Waste Disposal",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_26",
+    "question": "Blood, manure, garbage, hide, viscera and offals removed within 8 hours after slaughtering without contamination; containers cleaned/disinfected immediately.",
+    "section": "Sanitation, Maintenance & Waste Disposal",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_27",
+    "question": "Pest control programme is available and pest control activities are carried out by trained and experienced personnel.",
+    "section": "Sanitation, Maintenance & Waste Disposal",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_28",
+    "question": "No signs of pest activity or infestation in premises (eggs, larvae, faeces etc).",
+    "section": "Sanitation, Maintenance & Waste Disposal",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_29",
+    "question": "Efficient drainage system; drains/gutters fitted with traps and screens. Blood drainage underground with cleaning facility or portable covered receptacle.",
+    "section": "Sanitation, Maintenance & Waste Disposal",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_30",
+    "question": "Sufficient space for separation and storage of condemned carcasses. Destruction carried out under direct supervision of authorised veterinarian.",
+    "section": "Sanitation, Maintenance & Waste Disposal",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_31",
+    "question": "Slaughter house refuse and waste processed into animal by-product or dumped in covered pits.",
+    "section": "Sanitation, Maintenance & Waste Disposal",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_32",
+    "question": "For large slaughter house, ETP is required. Disposal of sewage and effluents conforms to Environment Protection Act, 1986.",
+    "section": "Sanitation, Maintenance & Waste Disposal",
+    "weight": 4,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_33",
+    "question": "Annual medical examination & inoculation of food handlers against enteric group of diseases per recommended vaccine schedule is done. Check for records.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_34",
+    "question": "No person suffering from illness or open wounds/burns involved in handling food or food-contact materials.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_35",
+    "question": "Food handlers maintain personal cleanliness (clean clothes, trimmed nails & waterproof bandage) and behaviour (hand washing, no loose jewellery/smoking/spitting).",
+    "section": "Personal Hygiene",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_36",
+    "question": "Food handlers equipped with suitable aprons, gloves, headgear, shoe cover etc.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_37",
+    "question": "Internal / External audit of system is done periodically. Check for records.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_38",
+    "question": "Food Business has an effective consumer complaints redressal mechanism.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_39",
+    "question": "Food handlers have necessary knowledge and skills & trained to handle food safely. Check for training records.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Slaughterhouse"
+  },
+  {
+    "item_id": "SH_40",
+    "question": "Appropriate documentation & records are available and retained for 1 year or shelf-life of product, whichever is more.",
+    "section": "Training & Records Keeping",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Slaughterhouse"
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "item_id": "Meat_01",
+    "question": "Food establishment has an updated FSSAI license and is displayed at a prominent location.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_02",
+    "question": "Premise is located in area that is free from objectionable odour, smoke, dust & other contaminants.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_03",
+    "question": "The design of food premises provides adequate working space; permit maintenance & cleaning.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_04",
+    "question": "Internal structure & fittings are made of non-toxic, impermeable materials which prevent the entry of dirt, dust & pest.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_05",
+    "question": "The premise is well equipped with chilling room, freezing room, freezer store or freezer as per the operations and fitted with temperature measuring or recording devices.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_06",
+    "question": "Floors are non-slippery, non-toxic, impervious & sloped appropriately.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_07",
+    "question": "Walls are non-absorbent, non-toxic, preferably light coloured, smooth & without crevices.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_08",
+    "question": "Ceilings are free from accumulated dirt, mould development & flaking paint or plaster.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_09",
+    "question": "Windows & other openings are free from accumulated dirt, those which open are fitted with insect-proof screen.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_10",
+    "question": "Doors are smooth, non-absorbent surface, close fitted & self closing (where appropriate).",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_11",
+    "question": "Premises have sufficient lighting i.e. 540 lux (inspection points), 220 lux (work room) & 110 lux (other areas).",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_12",
+    "question": "Adequate ventilation is provided within the premises.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_13",
+    "question": "Potable water (meeting standards of IS:10500 & tested semi annually with records maintained thereof) is used as product ingredient or in contact with food (ice & steam) or food contact surface.",
+    "section": "Design & Facilities",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_14",
+    "question": "Facilities for cleaning & disinfection of implements are made of non corrosive material & fitted with suitable means of supplying hot water in sufficient quantity.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_15",
+    "question": "Equipment, utensils and containers is made of material that is non-toxic, impervious, non-corrosive, facilitate cleaning & do not provide harbourage to pests.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_16",
+    "question": "Food material is tested either through internal laboratory or an accredited lab. Check for records.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_17",
+    "question": "Personnel hygiene facilities are available including toilets, hand washing facilities with warm/hot and cold water, hygienic drying, adjacent to toilets and processing area entry.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_18",
+    "question": "Premise has facility for storage of waste & inedible material such that contamination with food is avoided and is free from pest activity.",
+    "section": "Design & Facilities",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_19",
+    "question": "Incoming material procured as per internally laid down specification from approved vendors. Check for records (specifications, supplier details, batch no., quantity procured).",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_20",
+    "question": "Raw materials inspected at the time of receiving for food safety hazards.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_21",
+    "question": "Incoming material, semi or final products stored according to their temperature and humidity requirement, in a hygienic environment. FIFO & FEFO is practised.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_22",
+    "question": "The temperature in room for boning out & trimming are controlled & held suitably low, unless cleaning of equipment & utensils are carried out at least every four hours.",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_23",
+    "question": "Room used for deboning, preparing, packing or handling of meat is equipped with adequate facilities for cleaning & disinfecting implements (knives, cleavers, saws) not used for other purposes.",
+    "section": "Control of Operation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_24",
+    "question": "Meat shall be processed and packed using sound food grade materials in a hygienic manner.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_25",
+    "question": "Containers used for storing inedible substances, cleaning chemicals & other hazardous substance are clearly identified; stored separately from food.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_26",
+    "question": "Transporting vehicle for food use are kept clean and maintained in good repair.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_27",
+    "question": "Transporting vehicle capable of meeting requisite temperature (where applicable).",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_28",
+    "question": "Recalled products are held under supervision & destroyed or reprocessed/reworked in a manner to ensure their safety. Check for records.",
+    "section": "Control of Operation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_29",
+    "question": "All equipments, implements, tables, utensils (knives, cleavers, saws, containers) cleaned & disinfected at frequent intervals, immediately after contact with infected material, and at end of work day.",
+    "section": "Maintenance & Sanitation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_30",
+    "question": "Preventive maintenance of equipment and machinery are carried out regularly as per instructions of manufacturer.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_31",
+    "question": "Measuring & monitoring devices are calibrated periodically.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_32",
+    "question": "Pest control program is available & pest control activities are carried out by trained and experienced personnel. Check for records.",
+    "section": "Maintenance & Sanitation",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_33",
+    "question": "No signs of pest activity or infestation in premises.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_34",
+    "question": "Waste is removed from meat handling area at regular intervals (at least daily) & receptacles are cleaned & disinfected.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_35",
+    "question": "Drains are designed to meet expected flow loads and equipped with traps to capture contaminants.",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_36",
+    "question": "Disposal of sewage and effluents is done in conformity with standards laid down under Environment Protection Act, 1986 (BOD is less than 1500).",
+    "section": "Maintenance & Sanitation",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_37",
+    "question": "Annual medical examination & inoculation of food handlers against enteric group of diseases as per recommended vaccine schedule is done. Check for records.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_38",
+    "question": "No person suffering from a disease or illness or with open wounds or burns is involved in handling of food or materials which come in contact with food.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_39",
+    "question": "Food handlers maintain personal cleanliness (clean clothes, trimmed nails & waterproof bandage) and personal behaviour (hand washing, no loose jewellery, no smoking, spitting etc).",
+    "section": "Personal Hygiene",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_40",
+    "question": "Food handlers equipped with suitable aprons, gloves, headgear, shoe cover etc.",
+    "section": "Personal Hygiene",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_41",
+    "question": "Internal / External audit of the system is done periodically. Check for records.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_42",
+    "question": "Food Business has an effective consumer complaints redressal mechanism.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_43",
+    "question": "Food handlers have the necessary knowledge and skills & trained to handle food safely. Check for training records.",
+    "section": "Training & Records Keeping",
+    "weight": 2,
+    "asterisk_critical": false,
+    "category": "Meat Processing"
+  },
+  {
+    "item_id": "Meat_44",
+    "question": "Appropriate documentation & records are available and retained for a period of one year or shelf-life of product, whichever is more.",
+    "section": "Training & Records Keeping",
+    "weight": 4,
+    "asterisk_critical": true,
+    "category": "Meat Processing"
+  }
+]
